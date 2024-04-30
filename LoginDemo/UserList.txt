@@ -1,0 +1,4 @@
+1,Abdullayev Hayotjon,Hayot,3003,SuperAdmin
+2,Istamov Mirjahon,Mirjahon,7074,Admin
+3,Eshonqulov Oybek,Oybek,2309,Client
+4,Hafizov Sardor,Sardor,4643,Client
